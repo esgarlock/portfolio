@@ -1,0 +1,57 @@
+baseurl: /
+languageCode: en-US
+title: Emma Garlock
+theme: hugo-lithium
+googleAnalytics: ''
+disqusShortname: ''
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+permalinks:
+Post:
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 1
+    - name: CV
+      url: /cv/
+      weight: 2
+    - name: Selected Works
+      url: /research/
+      weight: 3
+    - name: GitHub
+      url: https://github.com/esgarlock?tab=repositories
+      weight: 5
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/emma-garlock-3a8b8a168/
+      weight: 4
+    - name: What am I Reading?
+      url: https://app.thestorygraph.com/profile/emmagarlock
+      weight: 6
+
+
+params:
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  description: A website built through Hugo and blogdown.
+  favicon: favicon.ico
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    - yaml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  logo:
+    alt: Logo
+    height: 100
+    url: personal_icon.png
+    width: 100
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: no

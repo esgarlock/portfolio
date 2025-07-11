@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Garlock</title>
+    <link>/</link>
+    <description>Recent content on Emma Garlock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Theses Master&amp;rsquo;s Thesis Impacts of medication use on child gut microbiota outcomes in the CHILD cohort study
+Supervisor: Dr. Fiona Brinkman
+Undergraduate Thesis A pathogenic examination of virulent and avirulent aerococcus viridans var homari
+Supervisor: Dr. K. Fraser Clark
+Journal Articles-Peer Reviewed Soliman Y, Uma Yakandawala U, Leong C, Garlock ES, Brinkman FSL , Winsor GL, Kozyrskyj AL, Mandhane PJ, Turvey SE, Moraes TJ, Subbarao P, Nickel NC, Thiessen K, Azad MB, Kelly LE.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/home/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/home/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>On this page you will find my CV. If you are interested in one specific aspect of my experience, click on the links below and it will bring you to the correct section.
+Professional Experience
+Publications
+Academic Service and Volunteering
+Teaching Experience and Invited Lectures
+Training and Conferences
+If you are interested in seeing some examples of my work you can check out the Selected Works page. If you have more questions you can Contact Me</description>
+    </item>
+    
+  </channel>
+</rss>
