@@ -38,6 +38,7 @@ ES Garlock, [Connect With CINECA-Emma Garlock](https://www.cineca-project.eu/blo
 # Teaching Materials  
 The links found below will link to GitHub, as I have been using the platform to act as a repository of my teaching materials to ensure they can be accessed by everyone regardless of institutional credentials.  
 
+[Introduction to R for Librarians](https://esgarlock.github.io/uOttawaRSession3/#Introduction)  
 [Research Data Management Toolkit for Liaison Librarians](https://github.com/esgarlock/teaching-materials/blob/main/general-knowledgebase.mcgill.ca_display_RDM_RDM%2BToolkit%2Bfor%2BLibrarians.png)  
 [AI Literacy for STEM Undergradutes-LibGuide ](https://github.com/esgarlock/teaching-materials/blob/main/AI_literacy.md)  
 [ Bioinformatics LibGuide Creation](https://github.com/esgarlock/teaching-materials/blob/main/README.md)  
