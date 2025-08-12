@@ -16,7 +16,7 @@ If you are interested in seeing some examples of my work you can check out the [
 
 
 # Professional Experience
-`2024` **Research Librarian (HM-STEM)**  
+`2024` **Research Librarian (HMSTEM)**  
 *University of Ottawa*  
 * Provide research support for graduate students and faculty in the School of Human Kinetics and Post Graduate Medical program.    
 * Conduct instructional sessions for research techniques including literature and data analysis.  
