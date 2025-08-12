@@ -6,7 +6,7 @@ title:
 
 ![index_icon](images/index_icon.png)
 
-I am a Research Librarian at the University of Ottawa, primarily supporting health sciences and STEM subjects. Click the links below to learn more about my:
+I am a Research Librarian at the University of Ottawa, primarily supporting health sciences and medicine. Click the links below to learn more about my:
 
  
 [Professional Experience](cv#professional-experience)  
@@ -15,5 +15,6 @@ I am a Research Librarian at the University of Ottawa, primarily supporting heal
 [Academic Service and Volunteering](cv#service-and-volunteering)    
 [Teaching Experience and Invited Lectures](cv#additional-teaching-experience-and-invited-lectures )   
 [Examples of work](research)
+
 
 
