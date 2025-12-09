@@ -114,9 +114,9 @@ __BSc (Honours) Biochemistry with minor in Biology__
 
 **Journal Articles-Peer Reviewed:**  
 
-**Garlock ES**, Bartlett JC. (2024). Making sense of the MeSH: The influence of automatic indexing on chemistry and genetics MEDLINE citations. *In preparation for submission to the Journal of the Canadian Health Libraries Association.* 
+**Garlock ES**, Bartlett JC. (2026). Making sense of the MeSH: The influence of automatic indexing on chemistry and genetics MEDLINE citations. *Submitted to the Journal of the Canadian Health Libraries Association.* 
 
-
+Y Soliman, U Yakandawala, C Leong, **ES Garlock**, FSL Brinkman, GL Winsor, AL Kozyrskyj, PJ Mandhane, SE Turvey, TJ Moraes, P Subbarao , NC Nickel, K Thiessen, MB Azad, LE Kelly. (2024) The use of prescription medications and non-prescription medications during lactation in a prospective Canadian cohort study. International Breastfeeding Journal. DOI: https://doi.org/10.1186/s13006-024-00628-x
 
 Arab M, Woods N, **Garlock ES**, Winsor GL, Parks JP, Jia B, Doiron D, Takaro T, Brook JR, Brinkman FSL. (2023). GlobeCorr: Interactive globe-based visualization for correlation Datasets. *Bioinformatic Advances.* DOI: https://doi.org/10.1093/bioadv/vbac099 
 
@@ -232,5 +232,6 @@ RLadies Vancouver
 
 
 <!-- ### Footer
+
 
 Last updated: May 2013 -->
