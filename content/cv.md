@@ -16,7 +16,19 @@ If you are interested in seeing some examples of my work you can check out the [
 
 
 # Professional Experience
-`2024` **Research Librarian (HM-STEM)**  
+`2025` **Research Librarian (HM-STEM)**   
+*University of Ottawa*
+* Provide research support for graduate students and in Postgraduate Medical Education, Anatomical Sciences Education, and Pharmacy. 
+* Conduct instructional sessions for research techniques including literature searching and knowledge synthesis. 
+* Participate as team member in knowledge synthesis and other research projects. 
+
+`2025` **Replacement Research Librarian (Geography and GIS)**  
+*University of Ottawa*							
+* Provide research support for students in the Department of Geography, Environment and Geomatics 
+* Conduct instructional sessions on general library information and available GIS resources 
+* Contribute to division-wide initiatives and projects. 
+
+`2024` **Replacement Research Librarian (HM-STEM)**  
 *University of Ottawa*  
 * Provide research support for graduate students and faculty in the School of Human Kinetics and Post Graduate Medical program.    
 * Conduct instructional sessions for research techniques including literature and data analysis.  
@@ -76,40 +88,6 @@ __BSc (Honours) Biochemistry with minor in Biology__
 &ensp;*Supervisor:* Dr. K Fraser Clark   
 &ensp;*Thesis:* Identification of Virulence Factors and Phylogenetic Analysis of *Aerococcus viridans* var. *homari*  
 
-# Training and Conferences  
-`2025`  
-**Canadian Health Libraries Conference (CHLA)**  
-&ensp;Presented: **ES Garlock**, JC Bartlett (2025). Investigating the Impact of the NLM Automatic Indexer on Information Retrieval using citation metadata. Canadian Health Libraries Conference, June 3-6, 2025. Vancouver, BC, Canada. 
-
-&ensp;Presented: **ES Garlock**(2025). Pirates vs Paywalls: Preliminary Investigation into the Utility of Sci-Hub Download Logs for Identifying Trends in User Behaviour. Canadian Health Libraries Conference, June 3-6, 2025. Vancouver, BC, Canada.
-
-`2024`  
-**Canadian Health Libraries Conference (CHLA)**  
-&ensp;Presented: **ES Garlock**, JC Bartlett (2024). MeSHing Around with Citation Metadata to Explore Patterns in Automatic Indexing: Preliminary Results. Canadian Health Libraries Conference, June 11-14, 2024. Winnipeg, MB, Canada. 
-
-**Concordia Library Research Forum**  
-&ensp;Presented: **ES Garlock**, JC Bartlett. (2024). Using Citation Metadata to Investigate the Implications of Automatic Indexing Algorithms on Information Retrieval. Concordia Library Research Forum, April 16th, 2024. Montreal QC, Canada. 
-
-`2023`  
-**Workshop for instruction in Library use (WILU)**  
-
-**Association des bibliothécaires du Québec – Quebec Library Association Conference**  
-&ensp;Presented: **ES Garlock**, JC Bartlett. (2024). Using Citation Metadata to Investigate the Implications of Automatic Indexing Algorithms on Information Retrieval. Concordia Library Research Forum, April 16th, 2024. Montreal QC, Canada.    
-
-**Canadian Health Libraries Conference (CHLA)**  
-
-`2021`  
-**The Prosody Pyramid: Tips for Speaking Effectively Workshop by Women in Chemistry SFU**  
-
-**BigX Research Day**  
-&ensp;Presented: **ES Garlock** et al,.(2021). Using Ontologies to Enhance Large Scale Analyses of Patterns in Microbiome and Medication Use. BIGX Research Day, March 31st, 2021. Vancouver BC, Canada.
-
-`2020`  
-**SciCat’s Online Science Communication Workshop**  
-
-**RLadies Intro to Functions Workshop** 
-
-
 # Publications
 
 **Journal Articles-Peer Reviewed:**  
@@ -127,7 +105,15 @@ Jia B, **Garlock ES**, Lo R, Allison MJ, Round JM, Helbing C, Verreault J, Brink
 Tindale, L., Stockdale, J.E., Coombe, M., **Garlock, ES.**, Lau, W.Y.V., Saraswat, M., Zhang, L., Chen, D., Wallinga, J., Colijn, C. (2020). Evidence for transmission of COVID-19 prior to symptom onset. *eLife*. DOI: 10.7554/eLife.57149
 
 **Oral Presentations** 
-  
+
+**ES Garlock**, A Amar-Zifkin (2026). Data-Driven Characterization of MEDLINE Indexing Practices Using Open-Source and Publicly Available Tools. International Association for Social Science Information Service and Technology Conference  2026.  
+
+A Amar-Zifkin, R Le Faive, **ES Garlock** , T Ekmekjian, V Paquet, TLandry (2026). Assessing the performance of the National Library of Medicine’s Medical Text Indexer - neXt-generation (MTIX) MEDLINE indexing algorithm. Canadian Health Libraries Conference. June 2nd-5th, 2026. Quebec City, QC, Canada.  
+
+**ES Garlock**, A Amar-Zifkin. (2026). Characterizing curation : creating a readily-accessible changelog of MEDLINE indexing. Canadian Health Libraries Conference. June 2nd-5th, 2026. Quebec City, QC, Canada. [Presentation]. June 2nd-5th. Virtual.  
+
+**ES Garlock (2026)**. Considerations for the use of Artificial Intelligence for Medical Education. International Congress of Academic Medicine. April 16th, 2026. Ottawa, ON, Canada.
+
  **ES Garlock**, JC Bartlett (2025). Investigating the Impact of the NLM Automatic Indexer on Information Retrieval using citation metadata. Canadian Health Libraries Conference, June 3-6, 2025. Vancouver, BC, Canada. 
 
  **ES Garlock**(2025). Pirates vs Paywalls: Preliminary Investigation into the Utility of Sci-Hub Download Logs for Identifying Trends in User Behaviour. Canadian Health Libraries Conference, June 3-6, 2025. Vancouver, BC, Canada.
@@ -142,6 +128,8 @@ M Monosky, **ES Garlock**, C Turp, K Howard, C Pecoskie, AB Rod. (2023). Buildin
 
 **Abstracts-Published**  
 All abstracts published as posters unless otherwise indicated 
+
+M Peeva, **ES Garlock**, S Dufour.  Peripheral Precocious Puberty Secondary to Ovarian Cysts in Prepubertal Girls-A Scoping Review and Case report. World Congress Pediatric Gynecology, April 23rd-25th, 2026. San Francisco, CA, USA.  
 
 **ES Garlock**, JC Bartlett (2024). MeSHing Around with Citation Metadata to Explore Patterns in Automatic Indexing: Preliminary Results. Canadian Health Libraries Conference, June 11-14, 2024. Winnipeg, MB, Canada. [LINK](https://osf.io/wh6qt/)  
 
@@ -174,8 +162,11 @@ ES Garlock, [Connect With CINECA-Emma Garlock](https://www.cineca-project.eu/blo
 &ensp;`2016-2017` 	Murray Sears Award in Chemistry  
 
 # Service and Volunteering
+`2025-2026` **Journal of the Canadian Health Libraries Association**. Peer Reviewer.  
 
-`2024-2025` **Research Grants Selection Committee**. University of Ottawa Library.
+`2025-2026` **uOttawa Library Training Committee**. Committee Member.
+
+`2024-2025` **uOttawa Library Research Grants Selection Committee**. Committee Member
 
 `2024` **McGill SIS ALA reaccreditation Committee on Standard III: Faculty**, Student Representative	
 
@@ -201,10 +192,11 @@ ES Garlock, [Connect With CINECA-Emma Garlock](https://www.cineca-project.eu/blo
 
 
 ## Additional Teaching Experience and Invited Lectures 
-`2025` **Guest Lecturer**. McGill School of Information Studies. INFS 673. April 2nd, 2025. 
-* Presented research on automatic indexing at the NLM. 
-
-`2025` **Invited Panelist**. CAPAL McGill Student Chapter. New Grad Panel: Advice on the acaedmic job hunt. April 2025. 
+`2026` **Guest Lecturer**.  Title: Automatic Indexing at the NLM.  McGill School of Information Studies-INFS 671: Health Sciences Information.  
+`2026` **Guest Lecturer**.  Title: Application of AI to Subject Heading Indexing. UOttawa School of Information Studies-ISI 6314 The Publishing Business.   
+`2026` **Guest Lecturer**.  Title: Application of AI to Subject Heading Indexing. UOttawa School of Information Studies-ISI 6300 AI and Information Policy.   
+`2025` **Guest Lecturer**.  Title: Automatic Indexing at the NLM.McGill School of Information Studies. INFS 673.  
+`2025` **Invited Panelist**. CAPAL McGill Student Chapter. New Grad Panel: Advice on the acaedmic job hunt.
 
 `2021` **Guest Teaching Assistant**  
 Simon Fraser University
@@ -235,3 +227,4 @@ RLadies Vancouver
 
 
 Last updated: May 2013 -->
+
