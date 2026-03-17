@@ -21,8 +21,8 @@ menu:
     - name: Selected Works
       url: /research/
       weight: 3
-    - name: GitHub
-      url: https://github.com/esgarlock?tab=repositories
+    - name: RStudio Workshop
+      url: https://esgarlock.github.io/uOttawaRSession3/#Introduction
       weight: 5
     - name: LinkedIn
       url: https://www.linkedin.com/in/emma-garlock-3a8b8a168/
