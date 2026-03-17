@@ -9,7 +9,7 @@ On this page you will find my CV. If you are interested in one specific aspect o
 [Publications](#publications)  
 [Academic Service and Volunteering](#service-and-volunteering)  
 [Teaching Experience and Invited Lectures](#additional-teaching-experience-and-invited-lectures )   
-[Training and Conferences](#training-and-conferences)
+
 
 If you are interested in seeing some examples of my work you can check out the [Selected Works](/research) page. If you have more questions you can [Contact Me](mailto:egarlock@uottawa.ca)
 
